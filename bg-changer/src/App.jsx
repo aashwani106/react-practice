@@ -1,5 +1,13 @@
+
+import './App.css'
+
 function App() {
-  return <h1> react with vite | theKalyugh </h1>;
+
+  return (
+    <>
+       <h1 className=''> hello love</h1>
+    </>
+  )
 }
 
-export default App;
+export default App
